@@ -1,5 +1,7 @@
 # bash-config
 
+![Konsole Terminal Screenshot](/screenshots/konsole-terminal.png)
+
 ## Based on
 
 Personal config based on the [ChrisTitusTech](https://github.com/christitustech/mybash) configuration.
@@ -14,7 +16,15 @@ Personal config based on the [ChrisTitusTech](https://github.com/christitustech/
 
 `config.jsonc` file to configure [fastfetch](https://github.com/AlexRogalskiy/fastfetch), a system information tool (like neofetch).
 
-
 ## Art
 
 Art used created by [AbiToads](https://linktr.ee/AbiToads)
+
+## Fonts
+
+Font used [Nerd Fonts - MesloLGS Nerd Font](https://www.nerdfonts.com/font-downloads)
+
+## Terminal Theme
+
+A slightly modified color variation of Konsole theme [Bl1nk Color Scheme by Rasi](https://store.kde.org/p/1220066)
+
