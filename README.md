@@ -5,6 +5,7 @@
 ## Based on
 
 Personal config based on the [ChrisTitusTech](https://github.com/christitustech/mybash) configuration.
+And the fastfetch idea from the post [By th4dd1 on reddit](https://www.reddit.com/r/cachyos/comments/1m2fz3v/i_think_im_finally_here/)
 
 ## Configuration Files
 
